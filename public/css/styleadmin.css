@@ -1,0 +1,13 @@
+.nav-link:hover {
+    background-color: grey;
+}
+
+.table th{
+    font-size: 13px;
+    text-align: center;
+}
+
+.table td {
+    font-size: 11px;
+    text-align: center;
+}
